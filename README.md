@@ -5,8 +5,11 @@
 Vadi E-Spor Multiboot V4, tek bir USB üzerinden:
 
 🖥️ Windows kurulumu
+
 🐧 Linux dağıtımları
+
 🛠️ Sistem kurtarma araçları
+
 💾 Disk yönetimi ve backup işlemleri yapmanızı sağlayan gelişmiş bir multiboot sistemidir.
 
 
@@ -18,7 +21,12 @@ Vadi E-Spor Multiboot V4, tek bir USB üzerinden:
 ⚙️ Özellikler
 
 🔧 Boot Sistemleri
-✅ Grub4DOS
+
+✅ Ventoy
+✅ AIO Boot
+✅ Grub2 File Manager
+✅ Grub2
+✅ Grub4DOS + EFI
 ✅ UEFI Boot Manager
 ✅ Clover / Refind
 ✅ Microsoft Boot Loader
@@ -35,10 +43,15 @@ ISO ile kurulum desteği
 🧰 Dahili Araçlar
 
 🔄 WinPE 10\11 x64 - 10x86
+
 🔄 Acronis Backup
+
 🧪 RAM Test araçları
+
 🗂️ Disk yönetim araçları
+
 🧩 Driver yedekleme
+
 
 🧠 Teknik Detaylar
 
@@ -46,7 +59,10 @@ ISO ile kurulum desteği
 Boot Türü	UEFI + Legacy
 Disk Desteği	GPT & MBR
 Sistem	WinPE x64
-Altyapı	Ventoy + Grub2 + AIOBoot + Grub2File Manager + Grub4dos
+
+💻 Altyapı	
+
+Ventoy + Grub2 + AIOBoot + Grub2File Manager + Grub4dos
 
 📥 İndirme & Kaynak
 
