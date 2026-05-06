@@ -39,6 +39,7 @@ Windows 7 / 8 / 10 / 11
 Windows XP
 Linux dağıtımları
 ISO ile kurulum desteği
+
 Bir çok Winpe yi sorunsuz çalıştırma ve yükleme
 
 
