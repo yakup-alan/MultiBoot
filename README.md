@@ -40,12 +40,12 @@ Windows XP
 Linux dağıtımları
 ISO ile kurulum desteği
 
-Bir çok Winpe yi sorunsuz çalıştırma ve yükleme
+Bir çok winPE yi sorunsuz çalıştırma ve yükleme
 
 
 🧰 Dahili Araçlar
 
-🔄 WinPE 10\11 x64 - 10x86
+🔄 winPE 10\11 x64 - 10x86
 
 🔄 Acronis Backup
 
@@ -107,7 +107,7 @@ Ventoy + Grub2 + AIOBoot + Grub2File Manager + Grub4dos
 
 🧾 Sonuç
 
-Vadi E-Spor Multiboot V4, klasik multiboot çözümlerine göre çok daha kapsamlıdır.
+Vadi E-Spor Multiboot v4, klasik multiboot çözümlerine göre çok daha kapsamlıdır.
 
 Özellikle:
 
