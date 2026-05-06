@@ -66,10 +66,11 @@ Bir çok winPE yi sorunsuz çalıştırma ve yükleme
 
 🧠 Teknik Detaylar
 
-Özellik	ve Açıklama
+🧰 Özellik	ve Açıklama
+
 Boot Türü	UEFI + Legacy
 Disk Desteği	GPT & MBR
-Sistem	WinPE x64
+Sistem	WinPE x64 - x86
 
 💻 Altyapı	
 
