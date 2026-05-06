@@ -49,11 +49,17 @@ Altyapı	Ventoy + Grub2 + AIOBoot + Grub2File Manager + Grub4dos
 👉 https://www.tnctr.com/topic/1233742-vadi-e-spor-multiboot-v4/
 
 🧩 Kullanım Senaryoları
+
 💻 Format USB hazırlama
+
 🔧 Teknik servis kullanımı
+
 💾 Veri kurtarma
+
 🧪 Sistem testleri
+
 ⚡ Acil boot çözümleri
+
 ⚠️ Önemli Notlar
 ❗ ISO klasöründe Türkçe karakter kullanmayın
 ❗ Klasör yapısını değiştirmeyin
@@ -72,6 +78,7 @@ Altyapı	Ventoy + Grub2 + AIOBoot + Grub2File Manager + Grub4dos
 ❌ Dezavantajlar
 
 ✖ Kurulumu yeni başlayanlar için zor olabilir
+
 ✖ Bazı donanımlarda uyumsuzluk yaşanabilir
 
 🧾 Sonuç
@@ -80,5 +87,7 @@ Vadi E-Spor Multiboot V4, klasik multiboot çözümlerine göre çok daha kapsam
 Özellikle:
 
 🧑‍💻 IT uzmanları
+
 🔧 Teknik servisler
+
 ⚙️ İleri kullanıcılar için güçlü bir araçtır.
