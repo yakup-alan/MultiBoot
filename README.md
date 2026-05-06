@@ -19,8 +19,11 @@ Vadi E-Spor Multiboot V4, tek bir USB üzerinden:
 🎬 Kurulum ve kullanım rehberi:
 
 👉 https://youtu.be/LdrwXT0MQDA?si=UHXHmjNrQJ33Et7T
+
 👉 https://www.tnctr.com/topic/1233742-vadi-e-spor-multiboot-v4/
+
 ✅ Vadi MultiBoot v4 indirme grup linki
+
 👉 https://www.mediafire.com/folder/fbkl8q3mm4wqy/Vadi_MultiBoot_v4
 
 ⚙️ Özellikler
