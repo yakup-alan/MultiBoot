@@ -16,6 +16,7 @@ Vadi E-Spor Multiboot V4, tek bir USB üzerinden:
 👉 https://www.tnctr.com/topic/1233742-vadi-e-spor-multiboot-v4/
 
 ⚙️ Özellikler
+
 🔧 Boot Sistemleri
 ✅ Grub4DOS
 ✅ UEFI Boot Manager
@@ -24,6 +25,7 @@ Vadi E-Spor Multiboot V4, tek bir USB üzerinden:
 
 
 💻 Desteklenen Sistemler
+
 Windows 7 / 8 / 10 / 11
 Windows XP
 Linux dağıtımları
@@ -31,12 +33,15 @@ ISO ile kurulum desteği
 
 
 🧰 Dahili Araçlar
+
+🔄 WinPE 10\11 x64 - 10x86
 🔄 Acronis Backup
 🧪 RAM Test araçları
 🗂️ Disk yönetim araçları
 🧩 Driver yedekleme
 
 🧠 Teknik Detaylar
+
 Özellik	ve Açıklama
 Boot Türü	UEFI + Legacy
 Disk Desteği	GPT & MBR
@@ -82,6 +87,7 @@ Altyapı	Ventoy + Grub2 + AIOBoot + Grub2File Manager + Grub4dos
 ✖ Bazı donanımlarda uyumsuzluk yaşanabilir
 
 🧾 Sonuç
+
 Vadi E-Spor Multiboot V4, klasik multiboot çözümlerine göre çok daha kapsamlıdır.
 
 Özellikle:
