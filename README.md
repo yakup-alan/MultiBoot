@@ -13,7 +13,7 @@ Vadi E-Spor Multiboot V4, tek bir USB üzerinden:
 
 🎬 Kurulum ve kullanım rehberi:
 👉 https://www.tnctr.com/topic/1233742-vadi-e-spor-multiboot-v4/
-##########################
+
 ⚙️ Özellikler
 🔧 Boot Sistemleri
 ✅ Grub4DOS
@@ -21,14 +21,12 @@ Vadi E-Spor Multiboot V4, tek bir USB üzerinden:
 ✅ Clover / Refind
 ✅ Microsoft Boot Loader
 
-##########################
 💻 Desteklenen Sistemler
 Windows 7 / 8 / 10 / 11
 Windows XP
 Linux dağıtımları
 ISO ile kurulum desteği
 
-##########################
 🧰 Dahili Araçlar
 🔄 Acronis Backup
 🧪 RAM Test araçları
@@ -39,9 +37,8 @@ ISO ile kurulum desteği
 Boot Türü	UEFI + Legacy
 Disk Desteği	GPT & MBR
 Sistem	WinPE x64
-Altyapı	AIOBoot
+Altyapı	Ventoy + Grub2 + AIOBoot + Grub2File Manager + Grub4dos
 
-##########################
 📥 İndirme & Kaynak
 
 🔗 Orijinal konu:
@@ -59,7 +56,7 @@ Altyapı	AIOBoot
 ❗ NVMe disklerde driver gerekebilir
 ❗ Eski sistemlerde farklı boot seçeneklerini deneyin
 
-##########################
+
 ⭐ Avantajlar
 
 ✔ Tek USB ile çoklu sistem
@@ -67,7 +64,7 @@ Altyapı	AIOBoot
 ✔ Geniş araç koleksiyonu
 ✔ Sürekli geliştirilebilir yapı
 
-##########################
+
 ❌ Dezavantajlar
 
 ✖ Kurulumu yeni başlayanlar için zor olabilir
